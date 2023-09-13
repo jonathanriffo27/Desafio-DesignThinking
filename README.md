@@ -1,5 +1,13 @@
 # Desafío - Design Thinking
 
+Para realizar este re-diseño, debemos elegir el rubro en el que queremos desarrollar nuestro proyecto y escoger una empresa que cuente con un sitio web o app vigente.
+
+Rubros:
+
+- Delivery
+- Viajes
+- Compras
+
 La empresa elegida para desarrolla el rediseño es QuickDelivery correspondiente al rubro del delivery.
 
 [QuickDelivery](https://www.quickdelivery.cl/)
